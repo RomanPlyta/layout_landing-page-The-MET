@@ -25,7 +25,7 @@ Explore the full potential and design of this landing page live on GitHub Pages:
 
 ## ⚙️ Installation and Setup
 
-To run this project locally, follow these steps:
+To run this project locally and compile the styles, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
@@ -37,8 +37,15 @@ To run this project locally, follow these steps:
     cd layout_landing-page-The-MET
     ```
 
-3.  **Launch the Project:**
-    Simply open `index.html` in your favorite browser or use the **Live Server** extension in VS Code.
+3.  **Install Dependencies:**
+    ```bash
+    npm i
+    ```
 
+4.  **Launch the Project:**
+    ```bash
+    npm start
+    ```
+    *(This command will start a local development server and open the project in your default browser).*
 ---
 *Created as part of a frontend development portfolio.*
