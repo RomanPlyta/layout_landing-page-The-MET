@@ -29,7 +29,7 @@ To run this project locally and compile the styles, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/romanplyta/layout_landing-page-The-MET.git
+    git clone https://github.com/RomanPlyta/layout_landing-page-The-MET.git
     ```
 
 2.  **Navigate to the Project Directory:**
